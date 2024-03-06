@@ -1,17 +1,3 @@
-# Ignore folders
-**/Cam1extracted_frames_intrinsic/
-**/Cam2extracted_frames_intrinsic/
-**/Cam3extracted_frames_intrinsic/
-**/Cam4extracted_frames_intrinsic/
-**/Cam1extracted_frames_extrinsic/
-**/Cam2extracted_frames_extrinsic/
-**/Cam3extracted_frames_extrinsic/
-**/Cam4extracted_frames_extrinsic/
-**/Cam1background/
-**/Cam2background/
-**/Cam3background/
-**/Cam4background/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,7 +115,7 @@ venv.bak/
 .spyproject
 
 # PyCharm project settings
-.idea/
+.idea
 
 # Rope project settings
 .ropeproject
