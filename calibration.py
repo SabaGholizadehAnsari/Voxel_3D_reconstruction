@@ -1,7 +1,5 @@
 import numpy as np
 import sys
-path_to_module = "C:/Users/Gholi002/AppData/Local/r-miniconda/envs/myenvironment/Lib/site-packages"
-sys.path.append(path_to_module)
 import cv2
 import os
 import glob
