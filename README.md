@@ -1,5 +1,5 @@
 # Voxel 3D reconstruction.
-Recorded videos of subject in with 4 different cameras.
+Data: videos of subject with 4 different cameras.
 
 An example of foreground exctraction in one view(camera):
 ![alt text](https://github.com/SabaGholizadehAnsari/Voxel_3D_reconstruction/blob/main/data/cam1/bgmask_orj0.jpg)
